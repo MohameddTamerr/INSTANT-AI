@@ -46,3 +46,20 @@ The V model is a development protocol that places an emphasis on developing and 
 
 the project manager includes the main tasks and features their team needs to work on throughout the project life cycle to meet all the customer's requirements. The V model is similar to the waterfall model, which organizes these steps in a sequential life cycle. While the waterfall method uses a linear fashion to list each task, the V model uses a V-shaped graph.
 On the left side of the V-shaped graph, the project manager includes details for each of the verification phases. These phases illustrate what the customer's requirements are and how the team plans to achieve them. The right side of the V represents the validation phases. This includes the specific tests the team must perform to validate whether the software meets all the customer's requirements.
+### (5)DevOps cycle tool:
+<ins>Git</ins>
+
+<ins>Jira</ins>
+
+<ins>Visual Studio</ins>
+
+<ins>New Relic</ins>
+
+<ins>Maven</ins>
+
+<ins>Nagios</ins>
+##
+### (6)Diffrence between design pattern and architecture pattern:
+Design patterns - solves reoccurring problems in software construction
+
+Architectural patterns - fundamental structural organization for software systems
