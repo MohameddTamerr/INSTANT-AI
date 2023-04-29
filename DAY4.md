@@ -1,5 +1,5 @@
 # DAY4
-## Whats OODO?:
+## Whats ODOO?:
 Odoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.
 ##
 ## Arabic Programming Languages:
