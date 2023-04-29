@@ -7,4 +7,4 @@
 | Insertion: |  In C++, you can insert a key-value pair into a map using the insert() function | In Python, you can insert a key-value pair into a dictionary using the square brackets []|
 |Ordering:|map in C++ stores its elements in a sorted order based on the keys|dictionary in Python does not maintain the order of its elements.|
 |Performance: |map in C++ is generally faster than dictionary inn Python |Slower|
-### Overall, map in C++ and dictionary in Python have many similarities, but also have some key differences in terms of syntax, key types, accessing values, insertion, ordering, and performance.
+### <ins> Overall, map in C++ and dictionary in Python have many similarities, but also have some key differences in terms of syntax, key types, accessing values, insertion, ordering, and performance. </ins>
