@@ -1,7 +1,7 @@
 # DAY5
 ### Diffrence Between CRM And ERP:
 |CRM|ERP|
-|:---:|:---|
+|:---:|:---:|
 |Customer Relationship Management (CRM) is a strategy and tool that helps companies improve their relationships with customers and increase sales and profits. CRM can be defined as follows: CRM is an approach that helps companies improve relationships with current customers and acquire new customers more quickly. It uses software to collect, organize,and analyze customer data and interactions, providing valuable insights for developing customer interaction strategies and creating better relationships.|It is a system that helps companies manage their day-today business activities, such as accounting, procurement, inventory, production, sales, and others. Enterprise resource planning (ERP) can be defined as follows:Enterprise resource planning (ERP) is an integrated software system that connects all aspects of business processes in a single database, specific applications, and user interface. Collects, organizes and analyzes customer and supplier data, products and services, and provides valuable insights to improve business efficiency and effectiveness. It also helps in simplifying and automating many office functions related to technology, services, and human resources|
 ##
 ### Code Cython:
