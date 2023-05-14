@@ -1,5 +1,5 @@
 # DAY13
-## Types of Unstractured Databas:
+## Types of Unstractured Database:
  include books, journals, documents, metadata, health records, audio, video, analog data, images, files, and unstructured text such as the body of an e-mail message, Web page, or word-processor document.
 ## Most Kinds Of The AI Models In All Fields:
 ### In Medical Field:
