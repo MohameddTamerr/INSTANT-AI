@@ -51,7 +51,7 @@ HTML and XHTML are both markup languages used to create web pages. XHTML is a st
 XHTML is HTML defined as an XML application. XHTML is supported by all major browsers
 
 ##
-### Languages secure from data scrap:
+### Languages secure from data scrape:
 Using cookies or Javascript to verify that the visitor is a web browser. This can prevent some bots from accessing the website content.
 
 Introducing Captchas to make sure that the user is a human. This can deter automated scraping tools that cannot solve Captchas.
